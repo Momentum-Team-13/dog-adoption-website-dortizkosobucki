@@ -16,7 +16,7 @@ The fonts used are Open Sans and Oswald, and can be included by adding the follo
 ```
 
 The link to the adoption application form should go to `#`, which is a way to link to the same page as you are currently on.
-
+ad
 ## Page sections
 
 This page can be broken into three major sections: the header, the main part with the dogs, and the footer. Each increases in difficulty, and you should attempt them in that order. Like all projects, the goal is learning, not perfect completion.
